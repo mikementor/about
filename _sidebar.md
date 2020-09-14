@@ -2,3 +2,4 @@
 
 * [Home](/)
 * [Blog](blog/readme.md)
+* [Resources] (resources.md)
