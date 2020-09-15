@@ -1,3 +1,3 @@
-* Getting started
+* Main
 
-  * [Test](README.md)
+  * [Main](README.md)
