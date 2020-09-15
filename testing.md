@@ -5,7 +5,8 @@ Updated: {docsify-updated}
 Some drafts
 
 
-1. Process, Plan, Results2. Testing as a process
+1. Process, Plan, Results
+2. Testing as a process
 	1. Every process's structure
 		1. input
 		2. action
