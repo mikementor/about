@@ -11,3 +11,8 @@ Updated: {docsify-updated}
 ### Books
 
 - [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/shape-up.pdf)
+
+### Videos
+
+- [J.B. Rainsberger - The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
+- [J.B. Rainsberger - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
