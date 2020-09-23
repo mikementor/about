@@ -4,11 +4,11 @@ Updated: {docsify-updated}
 
 1. ***Clarify***
 
-It's next to impossible to know every single model of (development/CI/business domain) because for projects that are more complex than trivial it takes a  full competent specialist to maintain the topic - just one tester won't be enough(or you should find another/more rich and deep job, that will take note thsn your pair of attentive eyes) . 
+It's next to impossible to know every single model of (development/CI/business domain) because for projects that are more complex than trivial it takes a full competent specialist to maintain the topic - just one tester won't be enough(or you should find another/more rich and deep job, that will take note than your pair of attentive eyes).
 
-But there's always be the work of making the models of business domain/CI/etc explicit - or in another words making sure everyone understands model the same way but writing/drawing it down. 
+But there's always be the work of making the models of the business domain/CI/etc explicit - or in other words, making sure everyone understands the model the same way but writing/drawing it down.
 
-Next task would be questioning that model on the reality check ("how does reality accords to that model?") 
+The next task would be questioning that model on the reality check ("how does reality accords to that model?")
 
 2. ***Doubt the existing/explicitly stated model***
 
@@ -21,6 +21,7 @@ Here you already have some picture of how things should work. Now you're, using 
 
 
 3. ***Solidify assumptions***
+
 Some parts are to be true always. And it's better to make sure they behave the same way always. 
 
 It's better to solidify that assumptions with automation, or, at least, with regular checking
