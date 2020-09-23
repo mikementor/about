@@ -3,6 +3,7 @@
 * [Home](/)
 * [Blog](blog/readme.md)
   * [What is testing](blog/what-is-testing.md)
+  * [Foundational testing activities](blog/foundational-testing-activities.md)
 * [Testing](testing.md)
 * [Templates](templates/readme.md)
     * [Pull Request](templates/pull-request.md)
