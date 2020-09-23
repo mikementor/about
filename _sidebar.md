@@ -9,5 +9,6 @@
     * [Pull Request](templates/pull-request.md)
     * [Bug Report](templates/bug-report.md)
     * [Entrypoint](templates/entrypoint.md)
+    * [Repository Readme](templates/repo-readme.md)
 * [Resources](resources.md)
 * [Drafts](drafts.md)
