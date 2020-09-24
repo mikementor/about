@@ -7,7 +7,7 @@
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
-* [Templates](templates/readme.md)
+* [Templates](templates.md)
     * [Pull Request](templates/pull-request.md)
     * [Bug Report](templates/bug-report.md)
     * [Entrypoint](templates/entrypoint.md)
