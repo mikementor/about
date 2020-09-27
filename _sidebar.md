@@ -4,6 +4,7 @@
 * [Blog](blog/readme.md)
   * [What is testing](blog/what-is-testing.md)
   * [Foundational testing activities](blog/foundational-testing-activities.md)
+  * [Testing strategy](blog/testing-strategy.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
@@ -12,5 +13,7 @@
     * [Bug Report](templates/bug-report.md)
     * [Entrypoint](templates/entrypoint.md)
     * [Repository Readme](templates/repo-readme.md)
+* [Principles](/principles/first.md)
+* [Dictionary](dictionary/dictionary.md)
 * [Resources](resources.md)
 * [Drafts](drafts.md)
