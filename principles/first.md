@@ -1,4 +1,7 @@
 ### Principles
 
-1. 
+
+Universailty of potential:
+- money
+- electricity
 
