@@ -1,5 +1,3 @@
-### Test the sorting algorithm
-
 What questions will pop up in your mind if you got that task? What can go wrong?
 
 1. Do we really need the sorting algorithm, and not the Apple to banana transmutation? 
@@ -15,11 +13,12 @@ What questions will pop up in your mind if you got that task? What can go wrong?
 need to keep their sorted items by themselves or should it be public? 
 11. Should they pay for that? 
 12. What's the risks of errors on 1,2,Nth place?
-13. What would be our testing inputs cases? Search space is infinite [0,1,few,lots,ops?]
+13. What would be our testing inputs cases? Search space is infinite [0, 1, few, lots, ops?]
 14. Do we have to preserve an index of equal items? (They can be equal by comparison, but not entirely the same)
 15. Is comparison operation always computable? In reasonable amounts of time?
 16. What should we do in case of sudden interruption? Should we allow pausing, should we start over?
 17. Should we know about ongoing progress like in percent?
+18. Should it work faster on already sorted items?
 
 ----
 
