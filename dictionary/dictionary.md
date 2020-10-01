@@ -1,6 +1,6 @@
 ### Dictionary - wip
 
-// todo: words to cover
+> ⚠️ chapter under work (// todo: words to cover)
 
 Base:
 1. Chaos

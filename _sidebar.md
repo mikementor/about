@@ -5,6 +5,8 @@
   * [What is testing](blog/what-is-testing.md)
   * [Foundational testing activities](blog/foundational-testing-activities.md)
   * [Testing strategy](blog/testing-strategy.md)
+  * [Testers skills](blog/testers-skills.md)
+  * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
