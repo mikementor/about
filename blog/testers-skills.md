@@ -1,5 +1,3 @@
-### Tester's skills
-
 #### Foundational and abstract
 
 1. **Clarifying the model**
