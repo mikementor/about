@@ -21,6 +21,6 @@ Also, nice template [docsify has](https://github.com/docsifyjs/docsify/blob/deve
 
 
  ### How to use (GitHub)
- 1. Create in root directory of your repo
+ 1. Create in the root directory of your repo
  `.github/PULL_REQUEST_TEMPLATE.md` file. 
- 2. Copy contents of your favourite version of the PR.
+ 2. Copy contents of your favorite version of the PR.
