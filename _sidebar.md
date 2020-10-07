@@ -17,6 +17,7 @@
     * [Repository Readme](templates/repo-readme.md)
 * [Principles](/principles/first.md)
 * [Dictionary](dictionary/dictionary.md)
+  * [Professional](dictionary/professional.md)
 * Models
   * [Why - What - How](models/why-what-how.md)
 * [Startup ideas](startup-ideas/ideas.md)
