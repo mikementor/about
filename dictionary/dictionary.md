@@ -1,12 +1,9 @@
 ### Dictionary - wip
 
-> ⚠️ chapter under work (// todo: words to cover)
+> ⚠️ chapter under work 
 
-Base:
-1. Chaos
-2. Order
-3. Pattern
-4. Meaning
-5. Transformation
-6. Reference
-7. Something
+**Unit testing** - testing part without side-effects (pure functions, mocked things)
+
+**Integration testing** -  testing with side effects (while performing testing, there're side-effects we okay with)
+
+**End-to-end testing** - testing with side effects, using end-client  interface (as if client uses our app)
