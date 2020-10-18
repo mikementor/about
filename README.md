@@ -1,2 +1,2 @@
 ### Hi, there!
- That's my blog on testing. Here I'll leave all the questions and found answers.
+Blog ->> https://mikementor.github.io/mikementor/#/blog/readme
