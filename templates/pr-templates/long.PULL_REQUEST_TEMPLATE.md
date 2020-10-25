@@ -29,4 +29,3 @@ If **Breaking change!**, please describe the impact and migration path for exist
 - make sure CI passes
 - wait for approve
 - `squash and merge`
-- celebrate 🎉
