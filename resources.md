@@ -6,6 +6,9 @@ Updated: {docsify-updated}
 ### Testing
 - [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model)
 
+### Git
+
+- [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 
 
 ### Books
