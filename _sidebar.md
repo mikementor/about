@@ -22,4 +22,7 @@
   * [Why - What - How](models/why-what-how.md)
 * [Startup ideas](startup-ideas/ideas.md)
 * [Resources](resources.md)
+* Tips
+  * [PM](tips/project-management-tips.md.md)
+  * [Tester's tips](tips/testers-tips.md)
 * [Drafts](drafts.md)
