@@ -9,6 +9,7 @@
   * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
+  * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
@@ -24,4 +25,9 @@
   * [Why - What - How](models/why-what-how.md)
 * [Startup ideas](startup-ideas/ideas.md)
 * [Resources](resources.md)
+* Tips
+  * [PM](tips/project-management-tips.md.md)
+  * [Tester's tips](tips/testers-tips.md)
+*  Meetings
+   *  [Dailies](meetings/dailies.md)
 * [Drafts](drafts.md)
