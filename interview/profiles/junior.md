@@ -1,6 +1,8 @@
 
 ### Ownership
 
+Directly assigned tasks. Curious/asks questions about processess above
+
 ### Profile
 
 young and curious

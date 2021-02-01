@@ -11,6 +11,8 @@
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
   * [Profiles: junior](interview/profiles/junior.md)
+  * [Profiles: middle](interview/profiles/middle.md)
+  * [Profiles: senior](interview/profiles/senior.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
