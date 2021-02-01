@@ -7,6 +7,8 @@
   * [Testing strategy](blog/testing-strategy.md)
   * [Tester's skills](blog/testers-skills.md)
   * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
+* Interview
+  * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
