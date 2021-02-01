@@ -1,8 +1,9 @@
 
 ### Ownership
 
-Starts, maintains and improves process of the testing in project/team
-Establishes standards
+Starts, maintains and improves process of the testing in project/team.
+Establishes standards. 
+Influences delivery pipeline.
 
 ### Profile
 
