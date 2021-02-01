@@ -7,9 +7,10 @@
   * [Testing strategy](blog/testing-strategy.md)
   * [Tester's skills](blog/testers-skills.md)
   * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
+  * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
-  * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
+  * [Profiles: junior](interview/profiles/junior.md)
 * Slides
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
