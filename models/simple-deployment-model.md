@@ -1,3 +1,3 @@
 ### Simple deployment model
 
-<img src='./img/simple-deployment-model.png'></img>
+<img src='./models/img/simple-deployment-model.png'></img>
