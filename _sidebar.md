@@ -26,6 +26,7 @@
   * [Professional](dictionary/professional.md)
 * Models
   * [Why - What - How](models/why-what-how.md)
+  * [Simple Deployment Model](models/simple-deployment-model.md)
 * [Startup ideas](startup-ideas/ideas.md)
 * [Resources](resources.md)
 * Tips
