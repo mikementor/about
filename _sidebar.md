@@ -21,11 +21,13 @@
     * [Bug Report](templates/bug-report.md)
     * [Entrypoint](templates/entrypoint.md)
     * [Repository Readme](templates/repo-readme.md)
+    * [Testing strategy](templates/testing-strategy.md)
 * [Principles](/principles/first.md)
 * [Dictionary](dictionary/dictionary.md)
   * [Professional](dictionary/professional.md)
 * Models
   * [Why - What - How](models/why-what-how.md)
+  * [Testing requirements](models/testing-requirements.md)
 * [Startup ideas](startup-ideas/ideas.md)
 * [Resources](resources.md)
 * Tips
