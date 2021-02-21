@@ -85,10 +85,11 @@
         2. Data generation
         3. ...
     5. Reducing scope of what to automate (details? [⚠️])
-    6. 
+    6. Rewriting flaky checks on different levels(e2e-> units)
+    7. Removing flaky checks completely 
 11. Automation reporting optimizations   
 12. Static checks
-    1. code styles/code smells
-    2. specification diff checks (swagger-diff..)
+    1. Code styles/code smells
+    2. Specification diff checks (swagger-diff..)
 13. Backward-compatible development
 14. Something else
