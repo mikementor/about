@@ -33,7 +33,8 @@
 7. Resource risks
 8. Performance risks
 9. Unexpected risks
-10. Something else
+10. Uncovered risks (Did we miss something?)
+11. Something else
 
 
 ----
@@ -64,4 +65,8 @@
         1. Failing build on failing checks
 7. CI / CD
     1. ...
-8. Something else
+8. Coverage
+    1. Code coverage
+    2. Test coverage(including RTM)
+    3. ...
+9. Something else
