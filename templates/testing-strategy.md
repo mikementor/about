@@ -49,7 +49,9 @@
     1. Approach - scheduled reviews
 14. Hard debuggability in microservices environment
     1. Approach - observability(distributed tracing,log aggregation) [links](https://microservices.io/patterns/observability/distributed-tracing.html)
-15. Something else
+15. Code coverage, but checks doesn't really assert anything
+    1. Approach - mutation testing [PIT for Java](https://pitest.org/)
+16. Something else
 
 
 ----
