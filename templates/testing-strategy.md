@@ -87,6 +87,7 @@
     5. Reducing scope of what to automate (details? [⚠️])
     6. Rewriting flaky checks on different levels(e2e-> units)
     7. Removing flaky checks completely 
+    8. [small tip] Using Intellij Idea Live Templates for quick checks add
 11. Automation reporting optimizations   
 12. Static checks
     1. Code styles/code smells
