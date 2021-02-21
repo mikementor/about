@@ -36,7 +36,13 @@
 10. Unexpected risks
 11. Uncovered risks (Did we miss something?)
     1. Approach - risk-based modeling (STAMP,STPA)
-12. Something else
+12. Testing misses cases
+    1. Approach - quality criteria to the requirements
+    2. Approach - quality criteria to testing
+    3. Approach - test case design techniques usage
+13. Developed test strategy degradation with time
+    1. Approach - scheduled reviews
+14. Something else
 
 
 ----
@@ -104,4 +110,18 @@
 15. Insights optimizations
     1. History of check results ( e.g. allure jenkins plugin)
     2. Traceability of check results up to components/features/requirements
-16. Something else
+    3. Having a single entrypoint for all check results/metrics
+16. Completeness optimizations
+    1. Test case design techniques
+        1. Boundary Value Analysis
+        2. Error guessing
+        3. State Transition Techniques
+        4. Decision Table Techniques
+        5. Equivalence partitioning 
+        6. ...
+    2. Testing heuristics
+        1. ...
+    3. Modeling 
+        1. ...
+17.  Reducing amount of checks 
+18. Something else
