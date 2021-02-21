@@ -76,6 +76,8 @@
     1. Parallelization
     2. Grouping and running in order
         1. smokes/recent/fastest/longest/riskiest/feature-component related first
+    3. CI triggers
+    4. Nightly builds/check run
 10. Automation developing optimizations
     1. Entrypoint with guides for faster onboarding
     2. Splitting responsibility between types of automations
@@ -88,9 +90,17 @@
     6. Rewriting flaky checks on different levels(e2e-> units)
     7. Removing flaky checks completely 
     8. [small tip] Using Intellij Idea Live Templates for quick checks add
+    9. Ability to develop checks before implementation without  failing the CI
 11. Automation reporting optimizations   
 12. Static checks
     1. Code styles/code smells
     2. Specification diff checks (swagger-diff..)
 13. Backward-compatible development
-14. Something else
+14. Environment setup
+    1. Ability to perform all reasonable checks on local instance of the app
+    2. Single availiable test environment
+    3. Test environment that can be  spinned up on demand
+15. Insights optimizations
+    1. History of check results ( e.g. allure jenkins plugin)
+    2. Traceability of check results up to components/features/requirements
+16. Something else
