@@ -47,7 +47,9 @@
     3. Approach - test case design techniques usage
 13. Developed test strategy degradation with time
     1. Approach - scheduled reviews
-14. Something else
+14. Hard debuggability in microservices environment
+    1. Approach - observability(distributed tracing,log aggregation) [links](https://microservices.io/patterns/observability/distributed-tracing.html)
+15. Something else
 
 
 ----
@@ -128,5 +130,7 @@
         1. ...
     3. Modeling 
         1. ...
-17.  Reducing amount of checks 
-18. Something else
+17. Reducing amount of checks 
+18. System design
+    1. Microservices [patterns](https://microservices.io/patterns/index.html)
+19. Something else
