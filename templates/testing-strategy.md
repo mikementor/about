@@ -46,7 +46,7 @@
         1. Static checks (code quality -tools, eslint, prettier, sonar, ... )
 2. Monitoring & notifications
     1. Health checks
-    1. ELK / Prometheus / 
+    1. ELK / Prometheus /  Grafana / Jenkins monitors
     2. Any alerts (ElastAlerts...)
 3. Testable design
     1. ...
@@ -84,4 +84,11 @@
         1. DB dumps / SQL scripts
         2. Data generation
         3. ...
-11. Something else
+    5. Reducing scope of what to automate (details? [⚠️])
+    6. 
+11. Automation reporting optimizations   
+12. Static checks
+    1. code styles/code smells
+    2. specification diff checks (swagger-diff..)
+13. Backward-compatible development
+14. Something else
