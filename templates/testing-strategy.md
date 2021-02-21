@@ -72,4 +72,16 @@
         2. Thresholds and quality gates
     2. Test coverage(including RTM)
     3. ...
-9. Something else
+9. Automation execution optimizations
+    1. Parallelization
+    2. Grouping and running in order
+        1. smokes/recent/fastest/longest/riskiest/feature-component related first
+10. Automation developing optimizations
+    1. Entrypoint with guides for faster onboarding
+    2. Splitting responsibility between types of automations
+    3. Unifying body of checks (abstracting preparations(arrangements), actions, assertions, test data-access)
+    4. Test data / state of the app preparation
+        1. DB dumps / SQL scripts
+        2. Data generation
+        3. ...
+11. Something else
