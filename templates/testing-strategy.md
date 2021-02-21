@@ -106,7 +106,8 @@
     6. Rewriting flaky checks on different levels(e2e-> units)
     7. Removing flaky checks completely 
     8. [small tip] Using Intellij Idea Live Templates for quick checks add
-    9. Ability to develop checks before implementation without  failing the CI
+    9. [small tip] Using Intellij Idea Settings> File and Code templates for standard test file templates
+    10. Ability to develop checks before implementation without  failing the CI
 11. Automation reporting optimizations   
 12. Static checks
     1. Code styles/code smells
