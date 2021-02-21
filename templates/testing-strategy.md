@@ -34,6 +34,11 @@
 8. Resource risks
 9. Performance risks
 10. Unexpected risks
+    1. Bug makes it to the production
+        1. Approach - fast hotfix delivery
+        2. Approach - fast rollback
+            1. Data backups
+                1. Requires backups training
 11. Uncovered risks (Did we miss something?)
     1. Approach - risk-based modeling (STAMP,STPA)
 12. Testing misses cases
