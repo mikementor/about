@@ -30,11 +30,12 @@
 6. Market risks ( we don't do thing, people want/need/will buy)
     1. Demand risks
     2. ...
-7. Resource risks
-8. Performance risks
-9. Unexpected risks
-10. Uncovered risks (Did we miss something?)
-11. Something else
+7. Inflexible design (prevents/makes it harder and slower to change the system)
+8. Resource risks
+9. Performance risks
+10. Unexpected risks
+11. Uncovered risks (Did we miss something?)
+12. Something else
 
 
 ----
@@ -58,15 +59,17 @@
     2. For implementation
         1. For repo
             1. Readme standards
-            2. Delivery standards (Dockerfile/docker-compose/etc)
+            2. Delivery standards (Dockerfile/docker-compose/health-check routes etc)
             3. Automated checks
-        2. Workflow gGuides             
+        2. Workflow guides             
     3. For delivery
         1. Failing build on failing checks
 7. CI / CD
     1. ...
 8. Coverage
     1. Code coverage
+        1. Different types of coverages
+        2. Thresholds and quality gates
     2. Test coverage(including RTM)
     3. ...
 9. Something else
