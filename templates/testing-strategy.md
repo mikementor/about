@@ -1,4 +1,4 @@
- > ⚠️ chapter under work 
+ > ⚠️ chapter under work. For comments, refer to that [issue](https://github.com/mikementor/mikementor/issues/7)
 
 1. Context
 2. Risks
@@ -10,7 +10,7 @@
 1. Resources
     1. Team
     2. Delivery dates
-    3. Amount of work already done
+    3. Amount of work already done ()
     4. Amount of digested/prepared/unprepared domain knowledge
 2. Constraints
     1. ....
