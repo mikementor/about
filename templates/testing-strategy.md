@@ -14,7 +14,8 @@
     4. Amount of digested/prepared/unprepared domain knowledge
 2. Constraints
     1. ....
-3. Something else
+3. Architecture (monolith/microservices/etc)
+4. Something else
 
 -----
 *Risks*
