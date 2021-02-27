@@ -31,10 +31,10 @@
 3. checks running in CI
 4. checks running in CI, breaking the build when fails
 5. ... (Optimizations - parallel, grouping, retrying,...)
-
+10. Building in testabiltiy
 #### Reporting
 
-1. not
+1. no reporting
 2. 
 
 #### Automation hierarchy
@@ -44,3 +44,7 @@
 3. One type of automation is implemented (units/e2e/etc)
 4. Hierarchy is identified and implemented at the levels neccessary
 
+### Points of applied testing
+
+0. no testing
+1. ad-hoc testing implementation ___
