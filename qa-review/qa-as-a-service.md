@@ -19,6 +19,9 @@
 2. Notifying code coverage (non-breaking build)
 3. Build-breaking when code coverage doesn't hit threshold
 
+
+... Test Coverage
+
 #### API testing
 
 1. no api testing
@@ -33,3 +36,11 @@
 
 1. not
 2. 
+
+#### Automation hierarchy
+
+1. no automation
+2. ...
+3. One type of automation is implemented (units/e2e/etc)
+4. Hierarchy is identified and implemented at the levels neccessary
+
