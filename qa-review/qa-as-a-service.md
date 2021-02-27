@@ -1,0 +1,35 @@
+### QA <-->  Customer interface
+
+1. Requirements from QA to Customer
+2. Customer needs
+3. 
+
+
+### Models 
+
+1. Decisions -> Prioirities-> Work -> Deployment -> Monitoring -> Decisions
+
+2. ...?
+
+### Levels
+
+#### Code coverage
+
+1. No coverage
+2. Notifying code coverage (non-breaking build)
+3. Build-breaking when code coverage doesn't hit threshold
+
+#### API testing
+
+1. no api testing
+2. ad-hoc api testing (postmans)
+3. specification(?)
+3....
+3. checks running in CI
+4. checks running in CI, breaking the build when fails
+5. ... (Optimizations - parallel, grouping, retrying,...)
+
+#### Reporting
+
+1. not
+2. 
