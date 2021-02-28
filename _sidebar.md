@@ -4,6 +4,7 @@
 * [QA review](qa-review/review.md)
 * [QA as a service](qa-review/qa-as-a-service.md)
 * [Blog](blog/readme.md)
+  * [Insights](blog/insights.md)
   * [What is testing](blog/what-is-testing.md)
   * [Foundational testing activities](blog/foundational-testing-activities.md)
   * [Testing strategy](blog/testing-strategy.md)
