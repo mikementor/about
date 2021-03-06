@@ -2,13 +2,13 @@
 
  > ⚠️ chapter under work. For comments, refer to that [issue](https://github.com/mikementor/mikementor/issues/8)
 
- > todo Add 'Why' section near the questions...
+ > 🚧 Add 'Why' section near the questions...
 
- > todo re-order questions by priority...
+ > 🚧 re-order questions by priority...
 
- > todo understand wholeness of the questions: is it enough for creating a test strategy? Are there redundant questions?
+ > 🚧 understand wholeness of the questions: is it enough for creating a test strategy? Are there redundant questions?
 
- > todo identify relations with existing TPI next/TMMI/ ISO 29119/ ISQTB/ Context-driven testing / etc..
+ > 🚧 identify relations with existing TPI next / TMMI / ISO 29119 / ISQTB / Context-driven testing / etc..
 
 ### Context
 
