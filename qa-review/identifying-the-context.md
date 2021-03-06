@@ -11,17 +11,14 @@
 ### Context
 
 1. Tech stack
-    1. What is tech stack?
-        1. Language used
-        2. Databases used
-        3. etc...
+    1. What is tech stack?(Languages,DB,etc)
 2. Infrastructure
     1. What  3rd parties are in use? 
         1. AWS services, etc
     2. What tools, serving developement, are in use?
         1. CI/CD tools (kubernetes/jenkins/code deploy etc)
         2. VCS (github/bitbucket)
-        3. task-management (JIRA...)
+        3. Task management (JIRA...)
 3. Release cycles
     1. What are the delivery commitments?
         1. Scope
@@ -29,10 +26,10 @@
         3. Frequency
         4. Rollout/Rollback policies
     2. How everyone understands:
-        1. what new features/fixes/known issues are being released
-        2. current release is ready
+        1. What new features/fixes/known issues are being released?
+        2. Current release is ready?
     3. What an actual delivery item?
-        1. updated website? zip? etc?
+        1. updated website? zip?
     4. How success/failure of the release is judged?
 5. Team
     1. How manhy people work on the project? Who(devs/devops/qa/analysts/etc) works on it? At which ratio?(is there a lot of qa on devs?,etc)
@@ -50,8 +47,7 @@
             1.lots of browsers/mobile browsers support? 
         3. via desktop app
         4. via mobiles
-        5. etc
-8. Is there anything we missed?(etc question)
+8. Is there anything we missed?
 
 ### Current status
 
