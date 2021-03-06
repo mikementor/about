@@ -72,6 +72,7 @@
             1. Are all the neccessary test data identified?
             2. Are all the neccessary test data accessible?
             3. How does it maintain itself?
+            4. Are mocks in use? Why/Why not?
         3. Test state
             1. How easy it is to attain any specific state of the product to test?
         4. Automation
@@ -80,7 +81,7 @@
                     1. Unit / component /integration / e2e / etc
                     2. API
                         1. Is there any specification for the API? (swagger/...)
-                        2. How frequently api changes?Are breaking changes a common thing?
+                        2. How frequently api changes? Are breaking changes a common thing?
                     3. UI
                         1. What parts of the UI are in check? (screenshots/ e2e flow /component function/ rendering / etc)
                 2. Who writes/will write automated checks?
