@@ -6,7 +6,7 @@
 
  > todo re-order questions by priority...
 
- > todo understand wholeness of the questions: is it enough for creating a test strategy?
+ > todo understand wholeness of the questions: is it enough for creating a test strategy? Are there redundant questions?
 
  > todo identify relations with existing TPI next/TMMI/ ISO 29119/ ISQTB/ Context-driven testing / etc..
 
@@ -173,7 +173,6 @@ Development. How well can we create, test, and modify it?
 
 1. What are the areas you want to improve?
 2. What are the areas you want to improve first?
-
 
 
 ### Resources
