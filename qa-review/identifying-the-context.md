@@ -171,8 +171,6 @@
     4. Portability: How economical will it be to port or reuse the technology elsewhere?
     5. Localizability: How economical will it be to adapt the product for other places?
 
-
-> todo  rework
 ### Future scope-related questions
 
 1. What are the areas you want to improve?
