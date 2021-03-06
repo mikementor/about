@@ -1,8 +1,11 @@
 ### Questions to identify context of the project
 
  > ⚠️ chapter under work. For comments, refer to that [issue](https://github.com/mikementor/mikementor/issues/8)
- > Add 'Why' section near the questions...
+
+ > todo Add 'Why' section near the questions...
+
  > todo re-order questions by priority...
+
  > todo understand wholeness of the questions: is it enough for creating a test strategy?
 
 ### Context
