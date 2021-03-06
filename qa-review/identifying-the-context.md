@@ -124,7 +124,10 @@
 2. What is relevancy context?
     1. What is important/not so?
 3. What are the known/should be more priotitized risks?
-    1. For example
+    1. For example,from HTSM (look below)
+
+### HTSM  (Heuristic test strategy model)
+
 Capability. Can it perform the required functions?
 Reliability. Will it work well and resist failure in all required situations?
 • Robustness: the product continues to function over time without degradation, under reasonable conditions.
@@ -167,6 +170,7 @@ Development. How well can we create, test, and modify it?
 • Maintainability: How economical is it to build, fix or enhance the product?
 • Portability: How economical will it be to port or reuse the technology elsewhere?
 • Localizability: How economical will it be to adapt the product for other places?
+
 
 > todo  rework
 ### Future scope-related questions
