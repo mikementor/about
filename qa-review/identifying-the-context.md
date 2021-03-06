@@ -8,6 +8,8 @@
 
  > todo understand wholeness of the questions: is it enough for creating a test strategy?
 
+ > todo identify relations with existing TPI next/TMMI/ ISO 29119/ ISQTB/ Context-driven testing / etc..
+
 ### Context
 
 1. Tech stack
@@ -122,7 +124,51 @@
 2. What is relevancy context?
     1. What is important/not so?
 3. What are the known/should be more priotitized risks?
+    1. For example
+Capability. Can it perform the required functions?
+Reliability. Will it work well and resist failure in all required situations?
+• Robustness: the product continues to function over time without degradation, under reasonable conditions.
+• Error handling: the product resists failure in the case of errors, is graceful when it fails, and recovers readily.
+• Data Integrity: the data in the system is protected from loss or corruption.
+• Safety: the product will not fail in such a way as to harm life or property.
+Usability. How easy is it for a real user to use the product?
+• Learnability: the operation of the product can be rapidly mastered by the intended user.
+• Operability: the product can be operated with minimum effort and fuss.
+• Accessibility: the product meets relevant accessibility standards and works with O/S accessibility features.
+Charisma. How appealing is the product?
+• Aesthetics: the product appeals to the senses.
+• Uniqueness: the product is new or special in some way.
+• Necessity: the product possesses the capabilities that users expect from it.
+• Usefulness: the product solves a problem that matters, and solves it well.
+• Entrancement: users get hooked, have fun, are fully engaged when using the product.
+• Image: the product projects the desired impression of quality.
+Security. How well is the product protected against unauthorized use or intrusion?
+• Authentication: the ways in which the system verifies that a user is who he says he is.
+• Authorization: the rights that are granted to authenticated users at varying privilege levels.
+• Privacy: the ways in which customer or employee data is protected from unauthorized people.
+• Security holes: the ways in which the system cannot enforce security (e.g. social engineering vulnerabilities)
+Scalability. How well does the deployment of the product scale up or down?
+Compatibility. How well does it work with external components & configurations?
+• Application Compatibility: the product works in conjunction with other software products.
+• Operating System Compatibility: the product works with a particular operating system.
+• Hardware Compatibility: the product works with particular hardware components and configurations.
+• Backward Compatibility: the products works with earlier versions of itself.
+• Resource Usage: the product doesn’t unnecessarily hog memory, storage, or other system resources.
+Performance. How speedy and responsive is it?
+Installability. How easily can it be installed onto its target platform(s)?
+• System requirements: Does the product recognize if some necessary component is missing or insufficient?
+• Configuration: What parts of the system are affected by installation? Where are files and resources stored?
+• Uninstallation: When the product is uninstalled, is it removed cleanly?
+• Upgrades/patches: Can new modules or versions be added easily? Do they respect the existing configuration?
+• Administration: Is installation a process that is handled by special personnel, or on a special schedule?
+Development. How well can we create, test, and modify it?
+• Supportability: How economical will it be to provide support to users of the product?
+• Testability: How effectively can the product be tested?
+• Maintainability: How economical is it to build, fix or enhance the product?
+• Portability: How economical will it be to port or reuse the technology elsewhere?
+• Localizability: How economical will it be to adapt the product for other places?
 
+> todo  rework
 ### Future scope-related questions
 
 1. What are the areas you want to improve?
