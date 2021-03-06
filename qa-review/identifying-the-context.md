@@ -173,3 +173,10 @@ Development. How well can we create, test, and modify it?
 
 1. What are the areas you want to improve?
 2. What are the areas you want to improve first?
+
+
+
+### Resources
+
+
+1. [Heuristic test strategy model](https://www.developsense.com/resources/htsm.pdf)
