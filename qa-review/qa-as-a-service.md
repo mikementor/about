@@ -47,4 +47,6 @@
 ### Points of applied testing
 
 0. no testing
-1. ad-hoc testing implementation ___
+1. ad-hoc testing implementation 
+2. ...
+___
