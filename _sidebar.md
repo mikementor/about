@@ -15,6 +15,7 @@
   * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
+  * [Tricky questions](interview/tricky-questions.md)
   * [Profiles: junior](interview/profiles/junior.md)
   * [Profiles: middle](interview/profiles/middle.md)
   * [Profiles: senior](interview/profiles/senior.md)
