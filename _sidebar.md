@@ -4,6 +4,7 @@
 * [QA review](qa-review/review.md)
 * [QA as a service](qa-review/qa-as-a-service.md)
   * [Identifying the context](qa-review/identifying-the-context.md)
+  * [List of risks](qa-review/list-of-risks.md)
 * [Blog](blog/readme.md)
   * [Insights](blog/insights.md)
   * [What is testing](blog/what-is-testing.md)

@@ -1,0 +1,100 @@
+### List of risks
+
+> format risk [type] [type]
+> some risk mitigation activities marked with [tools]
+
+
+- Bus factor (only a few people with key knowledge/skills)
+    - [tools] Entrypoint for clear onboarding
+    - [tools] Standardized readme's
+    - [tools] Clear, maintainable documentation - knowledge base
+- [Testing]
+    - Unavaliable/unreliable 3rd parties
+        - [tools] Mocking
+    - Results of testing are unclear
+        - [tools] defined outputs (test coverage/code coverage/tickets/test reports/list of bugs/concerns)
+    - Test Data is unavaliable for sensitive data reasons
+        - [tools] anonymize data
+    - API checks are passed, but service doesn't work via UI(Broken specification/contract between backend/frontend)
+        - [tools] Contract testing
+        - [tools] Specification design-first development
+    - Automation is failed, when it should be passed (flaky/untrusted automation)
+        - [tools] Remove/rewrite (on lower, more stable levels) checks
+    - Automation isn't fun to write
+        - [tools] Designing service with testabiltiy in mind
+        - [tools] Design automation hierarchy and implement checks on meaningful levels
+        - [tools] Optimizing flow: from requirement to  finished check
+            - [tools] Reusable preconditions,actions and checks abstractions
+            - [tools] Unifying  work with test data
+        - [tools] * (Readme's, code snippets, Intellij Live templates, checks examples)
+- Unclear understanding of the progress
+    - [tools] Release notes
+    - [tools] Sprint retrospectives
+    - [tools] More fine-grained tasks
+    - [tools] Maturity models
+        - [tools] Test maturity models (TPI Next, TMMI, ...)
+- Unstable deployment process
+    - [tools] Deployment notes
+- Long feedback loop
+- Incorrect requirements
+- Incorrect implementation of the requirements(Implementation doesn't match intention)
+    - [tools] automation
+    - [tools] breaking CI build on failed automated checks
+- Unstable uptime of the service
+    - [tools] [detection] Service monitoring  with health checks
+- Incorrect cause of the problems investigation(When sympthom is fixed, not the root cause) 
+    - [tools] Root cause analysis (RCA)
+- Late delivery
+    - [tools] Scope rework (dividing, including testing in estimates,....)
+- Late discovery of the problems
+    - [tools] Observability (logging,..)
+    - [tools] Alerts & Notifications
+        - [tools] on exceptions on the production
+        - [tools] on failed checks
+        - [tools] on custom metrics (CPU/memory/....)
+- Unknown unknowns
+    - Unpredictable quality of the release
+- Degradation with time
+    - [tools] Scheduled reviews of strategies(testing, ...)
+    - It's getting harder to implement new feature without breaking something
+        - [tools] TDD --> BDD --> ...
+    - It's getting harder to implement automation
+        - [tools] ...
+- Ineffective meetings
+    - [tools] Formatted meetings (timeboxed, with agenda, proccess description and action items, with only affected people...)
+- Ineffective automation
+    - Automation misses bugs
+        - [tools] Mutation testing (for discovering  density of automation)
+    - Slow automation
+        - [tools] parallelize automation 
+        - [tools] review and clean up redundant checks
+        - [tools] review and rewrite checks on lower/faster levels(units/etc..)
+- Untested parts
+    - [tools] Reviews of test coverage
+    - [tools] Code coverage for identifying untouched code parts
+    - [tools] Property-based testing, model-based testing  for identifying  whole picture of requirements
+- Performance risks
+    - Service is slower/doesn't work under load
+        - [tools] Performance testing for identifying limits
+        - [tools] Auto scaling
+- Standards/Certification uncompliance 
+- Security risks
+    - Data is being broken
+        - [tools] Backups (scheduled / before deployments)
+        - [tools] Rollback/Rollout trainings
+    - Unauthorized access
+    - Data leaks
+    - Harmful use of service
+        - Harmful for service
+        - Harmful for customers
+        - Harmful for 3rd parties
+    - [tools] Security scans
+- Customers are unsatisfied with the end-product
+    - [tools]  (to be done...)
+- Testing is too expensive
+    - [tools]  reducing regressions
+    - [tools]  developers write all the automated checks
+    - [tools]  reducing amount of people
+- Missed risks
+    - [tools] risk-based management
+    - [tools] models like STPA, FMECA,...
