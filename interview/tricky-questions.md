@@ -20,4 +20,4 @@
 7. What is testing for you?
     1. main goals
     2. own philosophy
-
+8. How would you start organizaing testing process in a project without it?
