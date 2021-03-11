@@ -22,3 +22,16 @@
     2. own philosophy
 8. How would you start organizaing testing process in a project without it?
 9. What were your responsibilites? How do you report about work being done?
+10. Pipelines.
+    1. Jenkins
+        1. What are the parts of your jenkins pipeline? (lints/checks stage/)
+11. SQL
+    1. what are the types of joins you know/used?
+    2. what is view / materialized view?
+    3. Did you test data integrity? (when some parts of DB can be updated irrespectively from  other relevant parts)
+    4. Can there be multiple primary keys? How is to implement it?
+    5. Have you heard about ACID principles?
+    6. Have you heard about CAP-theorem?/its critique? Base-architecture?
+    7. How do you prepare data in database?
+    
+
