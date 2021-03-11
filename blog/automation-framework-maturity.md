@@ -19,7 +19,7 @@
 ### 3. -
 1. Reporting/Error/RCA optimizations
 2. Export results into TMS/etc
-3 ...
+3. Traceability to the requirements
 
 ### 4. -
 1. ....
