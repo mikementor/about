@@ -14,6 +14,7 @@
 2. Grouping/categorizing checks
 3. Unified language for writing checks. Reusability
 4. All the assertions has meaningful message(?)
+5. Test Data / Test State processing unification
 
 ### 3. -
 1. Reporting/Error/RCA optimizations
