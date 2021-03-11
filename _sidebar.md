@@ -13,6 +13,7 @@
   * [Tester's skills](blog/testers-skills.md)
   * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
   * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
+  * [Automation framework maturity](blog/automation-framework-maturity.md)
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
   * [Tricky questions](interview/tricky-questions.md)
