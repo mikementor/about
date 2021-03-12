@@ -16,6 +16,7 @@
 4. All the assertions has meaningful message(?)
 5. Test Data / Test State processing unification
 6. All configuration is set up in one place, with ease of changing environments if neccessary
+7. Code styles / static checks  for automation code
 ### 3. -
 1. Reporting/Error/RCA optimizations
 2. Export results into TMS/etc
