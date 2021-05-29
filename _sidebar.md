@@ -24,6 +24,7 @@
   * [Testing starter kit](slides/testing-starter-kit.md)
 * [Testing](testing.md)
 * [Templates](templates.md)
+    * [Docs](templates/docs/docs.md)
     * [Pull Request](templates/pull-request.md)
     * [Bug Report](templates/bug-report.md)
     * [Entrypoint](templates/entrypoint.md)
@@ -41,6 +42,7 @@
 * Tips
   * [PM](tips/project-management-tips.md.md)
   * [Tester's tips](tips/testers-tips.md)
+  * [CI](tips/ci/ci-tips.md)
 *  Meetings
    *  [Dailies](meetings/dailies.md)
 * [Drafts](drafts.md)

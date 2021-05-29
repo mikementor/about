@@ -19,6 +19,8 @@ Updated: {docsify-updated}
 
 - [J.B. Rainsberger - The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
 - [J.B. Rainsberger - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
+- [Structure and Interpretation of Test Cases - Kevlin Henney] (https://www.youtube.com/watch?v=tWn8RA_DEic)
+- [Kevlin Henney — What we talk about when we talk about unit testing] (https://www.youtube.com/watch?v=-WWIeXmm4ec)
 
 ### Articles
 

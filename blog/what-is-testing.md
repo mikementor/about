@@ -8,6 +8,9 @@ Testing - is a doubt realization.
 
 Testing core - is a doubt. 
 
+Testing is a craft. Craft has goals of: delivering value and improving itself
+Testing is a process. It has inputs and outputs
+
 ### Other definitions(not mine)
 
 > The process consisting of all lifecycle activities, both static and dynamic, concerned with planning, preparation and evaluation of software products and related > work products to determine that they satisfy specified requirements, to demonstrate that they are fit for purpose and to detect defects.
