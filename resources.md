@@ -14,6 +14,7 @@ Updated: {docsify-updated}
 ### Books
 
 - [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/shape-up.pdf)
+- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/)
 
 ### Videos
 
@@ -25,6 +26,12 @@ Updated: {docsify-updated}
 ### Articles
 
 - [AN END TO END GUIDE ON EXPLORATORY TESTING](https://theqaconnection.com/2020/09/08/an-end-to-end-guide-on-exploratory-testing/)
+
+### Intelij IDEA tricks
+- [Be More Productive With IntelliJ IDEA by Trisha Gee](https://www.youtube.com/watch?v=CmPJzEqFS4s)
+- [IDEA Tips and Tricks by Hadi Hariri](https://www.youtube.com/watch?v=bFcaO1pXzws)
+- [Live Templates](https://www.jetbrains.com/help/idea/using-live-templates.html)
+- [Postfix completion](https://www.jetbrains.com/help/idea/settings-postfix-completion.html)
 
 
 ### State machines!

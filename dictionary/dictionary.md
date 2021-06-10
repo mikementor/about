@@ -22,3 +22,21 @@ Also
 
 > I use the term **integrated test** to mean any test whose result (pass or fail) depends on the correctness of the implementation of more than one piece of non-trivial behavior. (c)  J. B. Rainsberger (https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 
+
+
+**Code**
+- a set of instruction for a computer
+- a computer program, or  a portion of thereof
+- a system of words, figures or symbols used to represent others, especially for the purposes of secrecy
+- a set of conventions or principles governing behavior or activity in particular domain
+
+(c) Concise Oxford English Dictionary, Oxford English Dictionary, Merriam-Webster's Collegiate Dictionary
+
+**Enterprise**
+- a project or undertaking that is especially bold, complicated of arduous
+- readiness to engage in undertakings of difficulty, risk, danger of daring
+- a design of which the execution is attempted
+- a commercial of industrial undertaking
+- a firm, company of business
+- a unit of economic organization or activity
+(c) Concise Oxford English Dictionary, Oxford English Dictionary, Merriam-Webster's Collegiate Dictionary

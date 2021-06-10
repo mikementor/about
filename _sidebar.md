@@ -14,6 +14,7 @@
   * [Test the sorting algorithm](blog/test-the-sorting-algorithm.md)
   * [Reasons, when checks can be wrong](blog/reasons-checks-can-be-wrong.md)
   * [Automation framework maturity](blog/automation-framework-maturity.md)
+  * [Purposes of automation](blog/purposes-of-automation.md)
 * Interview
   * [How to conduct an interview](interview/how-to-conduct-an-interview.md)
   * [Tricky questions](interview/tricky-questions.md)
@@ -30,6 +31,7 @@
     * [Entrypoint](templates/entrypoint.md)
     * [Repository Readme](templates/repo-readme.md)
     * [Testing strategy](templates/testing-strategy.md)
+    * [Test plan](templates/test-plan.md)
 * [Principles](/principles/first.md)
 * [Dictionary](dictionary/dictionary.md)
   * [Professional](dictionary/professional.md)
