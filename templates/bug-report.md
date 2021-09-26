@@ -25,7 +25,7 @@
 1. ***Environment***  - where does the bug happened?
 
 2. ***Requirements*** - what the product should do? 
-If there's no requirements fixed, it's probably should be
+If there're no requirements fixed, it's probably should be
 
 3. ***Preconditions*** - what do you will need to reproduce the problem?
 Any user credentials, test data...
@@ -34,7 +34,7 @@ Any user credentials, test data...
 
 5. ***Expected Behavior*** - what did you expect?
 
-6. ***Actual Behavior*** - waht actually happened?
+6. ***Actual Behavior*** - what actually happened?
 
 7. ***Hypothesis*** - any ideas, why it happens?
 
