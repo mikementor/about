@@ -1,4 +1,4 @@
-### Some drafts
+### Some drafts. Do not look here
 
 Updated: {docsify-updated}
 
@@ -34,10 +34,6 @@ Updated: {docsify-updated}
 			1. Testing docs
 			2. Automation as faster feedback loop
 3. Questions to ask on the  first day
-4. **Why -> What -> How** model
-	1. Why is for values
-	2. What is for requirements
-	3. How is for implementation
 5. Ask these How to's
 	1. What are the list of actions?
 		1. Testing inputs
@@ -97,3 +93,65 @@ Updated: {docsify-updated}
 		1.  Team
 		2.  Project
 		3.  How to's
+
+-----
+Problem-solving approach [wip]
+
+1. "I can't solve the task"
+	1. How would describe the problem?
+		1. I don't know, why am I doing anything
+		2. I know what and how, but I just can't
+		3. I don't know what to do
+			1. ....
+		4. I know, what to do, but I need **some externals**
+			1. ....
+		5. I know, what to do, but I don't know **how**
+			1. How does the problem looks like?
+				1. 'When I do __this__, it should be __that__, but there is __problem__ instead'
+				2. What are steps to reproduce?
+				3. What info can you see?[numbers, metrics, errors...]
+				4. Does other similar/simpler cases work?
+				5. How it would be look like without the __problem__?
+				6. Can you point to the specific place of the problem?[service, class, function,...]
+				7. Or Do you feel, like your model of the process is incomplete?
+			2. **3-hour stuck rule**
+				1. Stuck for 3 hour? Ask.
+					1. "Hi,__name__! Could you help me with this __task_name_?"
+
+-----
+
+
+### Step-by-step  first day at work
+
+
+At the first day at work, the first question popping up is 'Where to start?'
+Let's decompose it into:
+
+1. What to do?
+2. How to do?
+
+
+# What to do?
+
+To answer this question, you need to know:
+1. What's the main goal?
+2. What is already done?
+
+
+### What's the main goal?
+ - model  of some awesome product till some date.
+ - - time constraints
+ - - requirements
+
+---
+1. Create an Entrypoint
+2. Create a testing strategy
+3. Work!
+---
+
+
+Folder structure
+
+- Entrypoint
+- - Guides
+-----
